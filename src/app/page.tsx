@@ -37,7 +37,7 @@ export default function LandingPage() {
         { name: "Projects", id: "products" },
         { name: "Contact", id: "contact" },
       ]}
-      brandName="DevStudio"
+      brandName="LaunchPad"
       button={{ text: "Get Started", href: "#contact" }}
     />
   </div>
