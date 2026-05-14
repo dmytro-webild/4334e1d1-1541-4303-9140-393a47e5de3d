@@ -164,7 +164,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterCard
-      logoText="DevStudio"
+      logoText="LaunchPad"
       copyrightText="© 2025 DevStudio Inc. All Rights Reserved."
     />
   </div>
